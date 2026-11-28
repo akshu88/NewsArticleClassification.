@@ -4,7 +4,8 @@
 ** Mentor:** Dr. Sahinur Laskar
 **Team Members: ** 
 1) Tanuja Bisht -> Data Preparation
-2) Mayank Anand -> Model & System Architecture  
+2) Mayank Anand -> Model & System Architecture
+3) Akshita Agrawal -> UI design and Implementation
 
 ## 1. Introduction
 This project uses Natural Language Processing (NLP) and
