@@ -1,6 +1,11 @@
 
 # News Article Multiclass Classification Using NLP
 
+** Mentor:** Dr. Sahinur Laskar
+**Team Members: ** 
+1) Tanuja Bisht -> Data Preparation
+2) Mayank Anand -> Model & System Architecture  
+
 ## 1. Introduction
 This project uses Natural Language Processing (NLP) and
 machine learning to classify news articles into categories.
